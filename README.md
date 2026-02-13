@@ -3,7 +3,6 @@
 
 ![Rust](https://img.shields.io/badge/Rust-1.70+-orange?style=for-the-badge&logo=rust)
 ![Nmap](https://img.shields.io/badge/Nmap-Required-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-darkgreen?style=for-the-badge)
 
 > _"You can’t defend what you don’t see."_
